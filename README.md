@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://github.com/Ankitverma0902/assests/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ankit Verma</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
