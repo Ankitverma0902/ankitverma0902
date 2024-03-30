@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, JavaScript,**
 
-- 📫 How to reach me **iamankit0902@gamil.com**
+- 📫 How to reach me **iamankit0902@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
